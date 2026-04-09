@@ -6,8 +6,8 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  DOCKER_IMAGE_NAME: kai.waldrant@outlook.com-azure-ttt
-  AZURE_WEBAPP_NAME: kai.waldrant@outlook.com-ttt-app
+  DOCKER_IMAGE_NAME: KaiWaldrant-azure-ttt
+  AZURE_WEBAPP_NAME: KaiWaldrant-ttt-app
 
 jobs:
   build:
